@@ -40,11 +40,11 @@ O programa imprimirá os resultados no terminal para cada combinação de algori
 
 ## Observações
 
-O Quick Sort usa partição aleatória.
+- O Quick Sort usa partição aleatória.
 
-O Merge Sort retorna uma nova lista ordenada, enquanto os demais ordenam in-place.
+- O Merge Sort retorna uma nova lista ordenada, enquanto os demais ordenam in-place.
 
-O limite de recursão foi aumentado para evitar RecursionError em entradas grandes.
+- O limite de recursão foi aumentado para evitar RecursionError em entradas grandes.
 
 ## Autor
 
